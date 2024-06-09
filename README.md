@@ -1,5 +1,5 @@
 # Amazon-Web-Scraper-Project
-```markdown
+
 ### Code Explanation 🤖
 
 #### Step 1: Importing Necessary Libraries
@@ -85,6 +85,4 @@ def send_mail():
 
 A function `send_mail` is defined for sending email notifications if the price of the product drops below a certain level.
 
-Feel free to reach out if you have any questions or need further clarification! 🚀
-```
-This markdown provides a beginner-friendly explanation of the code along with visual elements like emojis for a more engaging presentation. You can copy and paste this into your GitHub repo. Let me know if you need further assistance!
+
