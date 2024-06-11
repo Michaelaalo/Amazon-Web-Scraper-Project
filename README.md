@@ -78,7 +78,7 @@ A loop is set up to run the `check_price` function at regular intervals, ensurin
 
 #### Additional Functionality (Optional)
 ```python
-# If you want to try sending yourself an email when a price hits below a certain level, you can use this script
+# If you want to try sending yourself an email when a price hits below a certain level, you can use this code
 def send_mail():
     # Email sending logic here
 ```
